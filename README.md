@@ -1,1 +1,1 @@
-Triggering Docker build & push via GitHub Actions
+Triggering build after secrets fix
